@@ -1,0 +1,8 @@
+.authordetails {
+    display: flex;
+    justify-content: center;
+  }
+  .body {
+    background-color: rgb(168, 166, 166);
+    margin: 0;
+  }
